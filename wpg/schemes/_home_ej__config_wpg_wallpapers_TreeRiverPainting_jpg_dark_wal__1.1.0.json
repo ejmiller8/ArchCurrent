@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ej/.config/wpg/wallpapers/TreeRiverPainting.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0408",
+        "foreground": "#a2d1e1",
+        "cursor": "#a2d1e1"
+    },
+    "colors": {
+        "color0": "#0C0408",
+        "color1": "#C0837D",
+        "color2": "#5E2E8E",
+        "color3": "#354AAF",
+        "color4": "#655998",
+        "color5": "#9B589A",
+        "color6": "#B846A9",
+        "color7": "#a2d1e1",
+        "color8": "#71929d",
+        "color9": "#C0837D",
+        "color10": "#5E2E8E",
+        "color11": "#354AAF",
+        "color12": "#655998",
+        "color13": "#9B589A",
+        "color14": "#B846A9",
+        "color15": "#a2d1e1"
+    }
+}

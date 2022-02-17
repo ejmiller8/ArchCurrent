@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ej/.config/wpg/wallpapers/WeebShit.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1625",
+        "foreground": "#cddeec",
+        "cursor": "#cddeec"
+    },
+    "colors": {
+        "color0": "#1b1625",
+        "color1": "#DB649E",
+        "color2": "#778BB1",
+        "color3": "#9F93A9",
+        "color4": "#DEA5AF",
+        "color5": "#9BA2D6",
+        "color6": "#E4B6C6",
+        "color7": "#cddeec",
+        "color8": "#8f9ba5",
+        "color9": "#DB649E",
+        "color10": "#778BB1",
+        "color11": "#9F93A9",
+        "color12": "#DEA5AF",
+        "color13": "#9BA2D6",
+        "color14": "#E4B6C6",
+        "color15": "#cddeec"
+    }
+}

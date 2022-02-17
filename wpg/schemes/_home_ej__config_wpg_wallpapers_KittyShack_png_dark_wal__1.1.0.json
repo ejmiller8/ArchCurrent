@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ej/.config/wpg/wallpapers/KittyShack.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0c08",
+        "foreground": "#cce0f3",
+        "cursor": "#cce0f3"
+    },
+    "colors": {
+        "color0": "#0a0c08",
+        "color1": "#5F9D3A",
+        "color2": "#669C56",
+        "color3": "#9FB35A",
+        "color4": "#61A5BC",
+        "color5": "#3B8CE3",
+        "color6": "#B7C3A9",
+        "color7": "#cce0f3",
+        "color8": "#8e9caa",
+        "color9": "#5F9D3A",
+        "color10": "#669C56",
+        "color11": "#9FB35A",
+        "color12": "#61A5BC",
+        "color13": "#3B8CE3",
+        "color14": "#B7C3A9",
+        "color15": "#cce0f3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ej/.config/wpg/wallpapers/Moebius.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#546896",
+        "foreground": "#edd5db",
+        "cursor": "#edd5db"
+    },
+    "colors": {
+        "color0": "#546896",
+        "color1": "#988191",
+        "color2": "#79859d",
+        "color3": "#e2d686",
+        "color4": "#729ea8",
+        "color5": "#a886a4",
+        "color6": "#9baad4",
+        "color7": "#edd5db",
+        "color8": "#546896",
+        "color9": "#988191",
+        "color10": "#79859d",
+        "color11": "#e2d686",
+        "color12": "#729ea8",
+        "color13": "#a886a4",
+        "color14": "#9baad4",
+        "color15": "#edd5db"
+    }
+}
